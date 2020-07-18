@@ -1,6 +1,6 @@
-# - Grocery/Shopping List
+# Grocery/Shopping List
 
-#### - This is My first python project.
+### This is My first python project.
 
 ----
 
@@ -10,10 +10,22 @@
 ----
 
 ## Requirements:
-----
 
-* - In this shopping list, I used loop which loops until the budgets   go zero.
-* - Using dictionary to store product name, price and quantity.
+
+* In this shopping list, I used loop which loops until the budgets   go zero.
+* Using dictionary to store product name, price and quantity.
 * converting dictionary to the list for further updation.
 * Percentage showes the reamining of Budgets(%).
+
+## Licensing Information : READ LICENCE
+
+##### Project source can be downloaded from https://github.com/orfani1/
+
+
+## Author
+----
+###### Bashir Orfani
+
+* All other known bugs and fixes can be sent to bashir_orfani@yahoo.com
+* Reported bugs/fixes will be submitted to correction.
 
