@@ -1,4 +1,4 @@
-
+# show current Date and Time
 import time;
 
 localtime = time.asctime(time.localtime(time.time()))
