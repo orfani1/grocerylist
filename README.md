@@ -1,6 +1,6 @@
-- # Grocery/Shopping List
+# - Grocery/Shopping List
 
-- #### This is My first python project.
+#### - This is My first python project.
 
 ----
 
@@ -12,8 +12,8 @@
 ## Requirements:
 ----
 
-- * In this shopping list, I used loop which loops until the budgets go zero.
-* Using dictionary to store product name, price and quantity.
+* - In this shopping list, I used loop which loops until the budgets   go zero.
+* - Using dictionary to store product name, price and quantity.
 * converting dictionary to the list for further updation.
 * Percentage showes the reamining of Budgets(%).
 
