@@ -19,7 +19,8 @@
 
 ## Licensing Information : READ LICENCE
 
-##### Project source can be downloaded from https://github.com/orfani1/
+##### Project source can be downloaded from https://github.com/orfani1/grocerylist
+
 
 
 ## Author
