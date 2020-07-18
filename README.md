@@ -23,7 +23,7 @@
 
 
 ## Author
-----
+
 ###### Bashir Orfani
 
 * All other known bugs and fixes can be sent to bashir_orfani@yahoo.com
