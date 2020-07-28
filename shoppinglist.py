@@ -1,6 +1,6 @@
 # show current Date and Time
 import time;
-
+import decimal
 localtime = time.asctime(time.localtime(time.time()))
 
 print("The current time is ", localtime)
@@ -58,7 +58,7 @@ while True:
                 print("\nCAN, To Buy THE PRODUCT")  
                 continue
   
-            else: 
+            else:  
                 # checks if product name already in list 
                 if pn in na:   
                     # find the index of that product
@@ -97,17 +97,17 @@ while True:
                     # as to be calculated 
                     s = bg-sum(pr)    
   
-                    print("\namount left", s) 
+                    print("\namount left  %4.2f" % s) 
   
         # if budget goes zero print "NO BUDGET" 
         elif s <= 0:  
             print("\nNO BUDGET")  
         else: 
-            break
+            break 
         
 
 # will print amount left in variable 's' 
-print("\nAmount left : USD.", s)  
+print("\nAmount left : USD. %4.2f" % s)  
   
 # if the amount left equals to any amount in price list 
 if s in pr:  
@@ -117,7 +117,7 @@ if s in pr:
 #calculating %
 par = (s/bg) *100
 
-print("Percent ", par,"%")
+print("Percent %4.2f" % par,"%")
 
 print("\n\n\nGROCERY LIST IS:\n")
 
